@@ -1,11 +1,11 @@
 # Projeto-Individual-M.5
 
-Vamos usar o Node para montar um código que vai receber uma lista de propriedades de CSS 
-(ex: background-color, font-size, text-align) e vai devolver essa lista ordenada de A-Z. 
+Vamos usar o Node para montar um código que vai receber uma lista de propriedades de CSS de A-Z
+(ex: background-color, font-size, text-align). 
 Ordenar o CSS ajuda a encontrar mais rápido a propriedade que precisamos alterar.
 
 
-Dependências 🛒
+Dependências
 
 readlineSync Execução interativa para conversar com o usuário por meio de um console.
 
