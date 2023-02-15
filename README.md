@@ -6,6 +6,7 @@ Ordenar o CSS ajuda a encontrar mais rápido a propriedade que precisamos altera
 
 
 Dependências 🛒
+
 readlineSync Execução interativa para conversar com o usuário por meio de um console.
 
 chalk É usado para estilizar o formato do texto e nos permite criar nossos próprios temas no projeto node.js
